@@ -5,7 +5,7 @@
 ## How to
 
 >* Download the code. 
->>* Dependency: cmake, g++, openmp
+>>* Dependencies: cmake, g++, openmp
 
 >* Modify main.cpp and probably Tests/TestQuantArray0.h
 
