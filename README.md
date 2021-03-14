@@ -37,6 +37,6 @@
 
 \[3\] C. Liu, J. Han, and F. {Lombardi}. A low-power, high-performance approximate multiplier with configurable partial error recovery. Design, Automation and Test in Europe Conference and Exhibition (DATE), 2014. 
 
-\[4\] C. Chen et. al. Optimally Approximated and Unbiased Floating-Point Multiplier with Runtime Configurability. Proceedings of the 39th International Conference on Computer-Aided Desig. 2020. 
+\[4\] C. Chen et al. Optimally Approximated and Unbiased Floating-Point Multiplier with Runtime Configurability. Proceedings of the 39th International Conference on Computer-Aided Desig. 2020. 
 
-\[5\] R. Zendegani et. al. RoBA Multiplier: A Rounding-Based Approximate Multiplier for High-Speed yet Energy-Efficient Digital Signal Processing. IEEE Transactions on Very Large Scale Integration (VLSI) Systems. 2017. 
+\[5\] R. Zendegani et al. RoBA Multiplier: A Rounding-Based Approximate Multiplier for High-Speed yet Energy-Efficient Digital Signal Processing. IEEE Transactions on Very Large Scale Integration (VLSI) Systems. 2017. 
