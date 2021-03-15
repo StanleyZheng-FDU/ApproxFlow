@@ -48,3 +48,7 @@
 \[4\] C. Chen et al. Optimally Approximated and Unbiased Floating-Point Multiplier with Runtime Configurability. Proceedings of the 39th International Conference on Computer-Aided Desig. 2020. 
 
 \[5\] R. Zendegani et al. RoBA Multiplier: A Rounding-Based Approximate Multiplier for High-Speed yet Energy-Efficient Digital Signal Processing. IEEE Transactions on Very Large Scale Integration (VLSI) Systems. 2017. 
+
+## Note
+
+>* This repo is the same as https://github.com/shelljane/ApproxFlow
